@@ -1,3 +1,6 @@
+//Victoria Lozano 
+
+//this file is in charge of controlling the game dynamic 
 import '../model/board.dart';
 import '../model/web_client.dart';
 import '../view/ui.dart';

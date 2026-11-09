@@ -1,3 +1,5 @@
+//Sofia De Haro
+//this file is in charge of communicating with the server and getting the information from it
 import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
